@@ -1,0 +1,2 @@
+#!/bi/bash
+printif "%2.f" $NUM | sort
