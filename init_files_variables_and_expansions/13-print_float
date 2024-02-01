@@ -1,2 +1,2 @@
-#!/bi/bash
+#!/bin/bash
 printif "%2.f" $NUM | sort
